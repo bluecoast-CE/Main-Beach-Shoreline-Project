@@ -1,0 +1,1 @@
+{"bounds":{"min":[559545.3200000001,6831307.4,-8.76],"max":[561703.47,6832173.25,42.57]},"projection":"+proj=utm +zone=56 +south +datum=WGS84 +units=m +no_defs","sources":[{"name":"Drone_1907_PC_clip_thin.laz","points":36578093,"bounds":{"min":[559545.3200000001,6831307.4,-8.76],"max":[561703.47,6832173.25,42.57]}}]}
