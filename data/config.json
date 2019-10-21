@@ -1,0 +1,46 @@
+{
+  "logos": {
+    "top": "logos/Byron_logo.png",
+    "designedby": "logos/logo-bluecoast.png"
+  },
+  "pointclouds": [{
+    "label": "Drone_190729",
+    "directory": "July_2019"
+  }],
+  "data": [
+    {
+      "type": "point",
+      "point": [567700,6806160,0],
+      "name": "Byron Bay WRB",
+      "category": "Nearshore monitoring sites",
+      "modal": {
+        "exportSrc": "data/ByronWRB/Byron_Bay_Waverider_14_10_1976 to 1_10_2019.csv",
+        "imgs": [
+          {
+            "label": "Wave spectrum",
+            "imgSrc": "data/ByronWRB/jftroses.png"
+          }
+        ]
+      }
+    },{
+      "type": "profile",
+      "category": "RTK beach transect",
+      "points": [
+        [560744.5,6831470.2,1.0],
+        [560743.58,6831499.4,1.0]
+      ],
+      "name": "S1",
+      "modal": {
+        "exportSrc": "data/S1/RTK_beach_transect_190729.xlsx",
+        "imgs": [
+          {
+            "label": "Trans plot",
+            "imgSrc": "data/S1/Beach_transect.png"
+          }
+        ]
+      }
+    }
+  ]
+}
+
+  
