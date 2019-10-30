@@ -6,6 +6,9 @@
   "pointclouds": [{
     "label": "Drone_190729",
     "directory": "July_2019"
+    },{
+      "label": "Drone_191028",
+    "directory": "Oct_2019"
   }],
   "data": [
     {
