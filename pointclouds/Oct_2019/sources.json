@@ -1,0 +1,1 @@
+{"bounds":{"min":[559347.88,6831412.03,-15.610000000000002],"max":[560463.76,6831998.67,23.61]},"projection":"+proj=utm +zone=56 +south +datum=WGS84 +units=m +no_defs","sources":[{"name":"Drone_20191028_clip_thin.laz","points":39532644,"bounds":{"min":[559347.88,6831412.03,-15.610000000000002],"max":[560463.76,6831998.67,23.61]}}]}
